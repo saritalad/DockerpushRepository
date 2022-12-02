@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fibtFcNKAN2FpKBgqQcXUKYEqOjbF0SUgtL+IvbZUQO46Qf7QxUG8+rGB4nAFatt5tX7umf5Gdanh9FLEY3WhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmuser\\Documents\\MVCAppSimple\\MVCAppSimple\\MVCAppSimple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmuser\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
